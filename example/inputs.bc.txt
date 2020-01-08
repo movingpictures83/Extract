@@ -1,0 +1,2 @@
+plugins/Extract/example/release9_60_unaligned.fasta
+Burkholderia cepacia
